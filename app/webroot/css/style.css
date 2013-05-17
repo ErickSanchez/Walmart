@@ -1,0 +1,56 @@
+
+/* Estilos Globales*/
+body 					{ font-size: 16px;}
+footer 					{ padding-top: 20px; font-size: 14px;}
+header 					{ padding-top: 10px; padding-bottom: 5px;}
+li      				{ list-style: none;}
+li,a 					{ text-decoration: none; color:#1A75CF; }
+
+/* Clases Globales*/
+
+/***************************/
+.border 				{ border:2px solid #eee;}
+.radius         		{ border-radius: 5px 5px 5px 5px;}
+.radius-bottom  		{ border-radius: 0px 0px 5px 5px;}
+.red 					{ background-color: red;}
+.banner 				{ width:750px;}
+.content 				{ padding-top: 10px; padding-bottom: 10px;}
+.department 	  		{ border: 1px solid #eee; border-radius: 5px;}
+.department li  		{ border-bottom: 1px solid #eee; font-weight: bold; margin-left: -20px;}
+.left 					{ float:left;}
+.logo           		{ height:60px;}
+.main 					{ padding-top: 5px;}
+.menu,.signin   		{ height: 30px; }
+.menu ul li     		{ display:inline-block; font-weight: bold;}
+.menu_div 				{ color:#999;}
+.right 					{ float:right;}
+.shadow 				{ box-shadow: 0px 2px 4px #999;}
+.cart a 				{ margin-left: 50px;}
+.icon-cart 				{ width:25px; margin-bottom: 5px;}
+.space-search,
+.search 				{ height:35px; border-left:1px solid #eee; border-right:1px solid #eee; border-bottom:2px solid #eee;}
+.shopping-cart 			{background: url('../img/ico/shopping_cart.png') no-repeat;padding-left: 18px;}
+.clear-cart 			{margin-top: 10px;}
+.error 					{color:red;}
+.sp 					{ border-bottom: 2px solid #eee; margin-top: 5px; margin-bottom: 10px;}
+
+/* Fonts */
+.font_1 				{ font-size: 13px;}
+.font_2 				{ font-size: 15px;}
+.font_3 				{ font-size: 15px;}
+
+/*departmerts*/
+.add-cart 				{margin-top: 20px; float:right;}
+.available 				{margin-right: 0px; width:125px; margin-left: 110px;}
+.price 					{margin-right: 0px; width:100px; margin-left: 110px;}
+.price span				{color:#c00;}
+/***************************/
+
+#logo 					{ width:190px; height:58px;}
+#email_signup 			{ border: 2px solid #eee; padding-top: 5px;	padding-bottom: 5px;}
+#img_email_signup       { padding-right: 10px; border-right: 2px solid #eee;}
+
+/* singup*/
+.label-2 				{width:60px; padding-left: 5px; display:inline-block;}
+
+/******admin******/
